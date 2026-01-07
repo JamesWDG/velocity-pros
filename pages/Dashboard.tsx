@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+// import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import { UserRole, Claim } from '../types.ts';
 import { STATUS_COLORS } from '../constants.ts';
 import DashboardStats from '../components/DashboardStats.tsx';
-import { getDashboardInsights } from '../services/gemini.ts';
+// import { getDashboardInsights } from '../services/gemini.ts';
 
 const data = [
   { name: 'Mon', value: 40 },
