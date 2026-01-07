@@ -1,0 +1,8 @@
+{
+  "name": "VelocityPRO Claims Management",
+  "description": "A refined, modern, and classy SaaS-based Claims Management Portal for Users, Appraisers, and Admins, featuring AI-driven claim analysis and automated reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
